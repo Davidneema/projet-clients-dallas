@@ -1,1 +1,5 @@
-
+id,first_name,last_name,email,city
+1,John,Smith,john.smith@example.com,Dallas
+2,John,Johnson,john.j@example.com,Dallas
+3,Emily,Carter,emily.carter@dallascollege.edu,Dallas
+4,Michael,Brown,michael.b@dallas-tx.com,Dallas
